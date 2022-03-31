@@ -19,8 +19,6 @@ We've created a website that allows users to generate a plan for their backyard 
 
 [Authors](#Authors)
 
-[Report Issues](#Report-issues)
-
 ## Technologies-Used:
 * Handlebars
 * p5.js
